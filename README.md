@@ -18,21 +18,20 @@ there by user engagement.
 
 **Model Architecture**:
 
-![Alt text](images/ModelArchitecture.png?raw=true "ModelArchitecture")
-
+<img src="images/ModelArchitecture.PNG" width="800">
 
 **Feature Engineering**:
 
-![Alt text](images/Feature Engineering.png?raw=true "Feature Engineering")
+<img src="images/Feature\ Engineering.PNG" width="800">
 
 **Model Training**:
 
-![Alt text](images/Train.png?raw=true "Model Training")
+<img src="images/Train.PNG" width="800">
+
 
 **Model Metrics**:
 
-![Alt text](images/Metrics.png?raw=true "Model Metrics")
-
+<img src="images/Metrics.PNG" width="600">
 
 **XAI- Feature importance BeeSwarm shap plot**: Which features are more important to predict engagement score 
 
