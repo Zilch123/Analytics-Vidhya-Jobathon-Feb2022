@@ -16,7 +16,7 @@ there by user engagement.
 
 **Model Architecture**:
 
-![ModelArchitecture](https://user-images.githubusercontent.com/16478371/153887973-07923675-1979-4eb5-b180-d48dec8fe4f2.png|width=100px)
+[[https://user-images.githubusercontent.com/16478371/153887973-07923675-1979-4eb5-b180-d48dec8fe4f2.png|width=100px]]
 
 
 **Feature Engineering**:
