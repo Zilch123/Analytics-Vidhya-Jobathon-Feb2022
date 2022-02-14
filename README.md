@@ -42,5 +42,5 @@ there by user engagement.
 **XAI- Feature importance Bar plot**: 
 
 
-![Alt text](featureImportanceBarplot.PNG?raw=true "LIME plot of stroke prediction for a random subject probable not to get stroke")
+![Alt text](featureImportanceBarplot.PNG?raw=true "feature importance")
 
