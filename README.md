@@ -1,9 +1,11 @@
 # Analytics-Vidhya-Jobathon-Feb2022
 predicting customer video engagement score 
 
-**Submitted file rank: 7
+**Submitted file rank: 7**
+
 Public Rank: 15
-R2 value: 0.465**
+
+R2 value: 0.465
 
 
 **Business Objective**: 
